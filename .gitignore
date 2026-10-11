@@ -1,0 +1,25 @@
+# LaTeX build files
+*.aux
+*.log
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+*.out
+*.toc
+*.xdv
+*.bbl
+*.blg
+build/
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.ruff_cache/
+.ipynb_checkpoints/
+
+# Never upload photos or scans of the book pages (copyrighted)
+*.JPG
+*.jpg
+!assets/**/*.jpg
