@@ -9,6 +9,7 @@
 *.xdv
 *.bbl
 *.blg
+*.tex
 build/
 
 # Python
@@ -23,3 +24,4 @@ __pycache__/
 *.JPG
 *.jpg
 !assets/**/*.jpg
+

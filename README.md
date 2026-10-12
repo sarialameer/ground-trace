@@ -28,7 +28,7 @@ No pages of the book are included in this repository.
 
 ## Progress
 
-- [ ] Part 0: Prerequisites
+- [ ] Part 0: Prerequisites 4 hours and 40 minutes
 - [ ] Part 1: 
 - [ ] Part 2: 
 - [ ] Part 3: 
