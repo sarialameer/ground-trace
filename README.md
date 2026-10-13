@@ -28,7 +28,9 @@ No pages of the book are included in this repository.
 
 ## Progress
 
-- [ ] Part 0: Prerequisites 4 hours and 40 minutes
+- [ ] Part 0: Prerequisites (12 hours and 48 minutes)
+  - [ ] Sub-task 0.1: Comprehensive Guide to 3D Rotation Matrices, Determinants, and Euler Angles (4 hours and 40 minutes)
+  - [ ] Sub-task 0.2: Comprehensive Guide to Spherical Trigonometry, Equatorial Coordinates, Terminators, and Beta Angles (8 hours and 8 minutes)
 - [ ] Part 1: 
 - [ ] Part 2: 
 - [ ] Part 3: 
@@ -37,8 +39,7 @@ No pages of the book are included in this repository.
 - [ ] Part 6: 
 - [ ] Part 7: 
 - [ ] Part 8: 
-- [ ] Part 9: 
-
+- [ ] Part 9:   
 ## Repository map
 
 | Folder | What is in it |
